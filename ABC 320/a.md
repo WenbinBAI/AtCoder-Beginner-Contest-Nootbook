@@ -7,14 +7,14 @@ You are given positive integers **A** and **B**. Print the value **A^B** + **B^A
 All input values are integers.
 
 ## 中文
-## 问题描述
+### 问题描述
 给定两个正整数 **A** 和 **B**。请打印 **A^B** + **B^A** 的值。
 
-## 限制条件
+### 限制条件
 2≤A≤B≤9
 所有输入值都是整数。
 
-官方题解
+# 官方题解
 “_”代表这个变量不重要，中间过程的某个值，不作为结果等,了解一下就行
 ```cpp
 #include <iostream>
